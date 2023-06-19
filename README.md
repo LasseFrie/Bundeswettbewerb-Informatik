@@ -2,7 +2,7 @@
 
 Welcome to my BWINF project contribution! In this project, I've developed solutions for three tasks: Blumenbeet, Stromrallye, and Wörter einsetzen. These tasks were accomplished during my school years. The programming languages used were C# and Python.
 
-The Bundeswettbewerb Informatik (BWINF) is a prestigious German computer science competition that challenges young students to solve complex computational problems.
+The [Bundeswettbewerb Informatik](https://bwinf.de/bundeswettbewerb/) (BWINF) is a prestigious German computer science competition that challenges young students to solve complex computational problems.
 
 ## 🚀 Getting Started
 
@@ -41,7 +41,7 @@ cd Stromrallye
 
 ### 📝 Wörter einsetzen
 
-Navigate to the Wörter einsetzen directory and execute the C# or Python file.
+The "Wörter einsetzen" challenge involves processing a text with missing words and a list of candidate words to fill the gaps. The text includes punctuation and some gaps may already contain certain characters. The task is to create an algorithm that correctly fills all the gaps considering word length, any existing characters, and punctuation. The final output should be the fully completed text.
 
 #### 🎯 Features
 
